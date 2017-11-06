@@ -1,0 +1,1 @@
+print u"\u73b0\u5728\u540c\u4e8b"
