@@ -1,7 +1,7 @@
 __author__ = 'Administrator'
 
-USERNAME = "yc550370460@126.com"
-PASSWD = "510902198801076872"
+USERNAME = "@126.com"
+PASSWD = ""
 
 
 # LOGIN_PAGE = "http://www.renren.com/ajaxLogin/login"
